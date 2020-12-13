@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haskell on Candy?&#39;s Blog</title>
-    <link>https://thwfhk.github.io/blog/tags/haskell/</link>
+    <link>https://blog.candyqwq.xyz/tags/haskell/</link>
     <description>Recent content in Haskell on Candy?&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2020 17:43:42 +0800</lastBuildDate><atom:link href="https://thwfhk.github.io/blog/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2020 17:43:42 +0800</lastBuildDate><atom:link href="https://blog.candyqwq.xyz/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>区分一些Higher-order开头的词</title>
-      <link>https://thwfhk.github.io/blog/post/higher_order_xxx/</link>
+      <link>https://blog.candyqwq.xyz/post/higher_order_xxx/</link>
       <pubDate>Tue, 25 Aug 2020 17:43:42 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/post/higher_order_xxx/</guid>
+      <guid>https://blog.candyqwq.xyz/post/higher_order_xxx/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;某种意义上，高阶意味着一等公民（&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Monad是自函子范畴上的幺半群</title>
-      <link>https://thwfhk.github.io/blog/post/monad_is_a_monoid/</link>
+      <link>https://blog.candyqwq.xyz/post/monad_is_a_monoid/</link>
       <pubDate>Sat, 22 Aug 2020 22:25:27 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/post/monad_is_a_monoid/</guid>
+      <guid>https://blog.candyqwq.xyz/post/monad_is_a_monoid/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;All told, monad is just a monoid in the category of endofunctors.&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -31,10 +31,10 @@
     
     <item>
       <title>如何用Haskell写一棵红黑树</title>
-      <link>https://thwfhk.github.io/blog/post/haskell_red_black_tree/</link>
+      <link>https://blog.candyqwq.xyz/post/haskell_red_black_tree/</link>
       <pubDate>Tue, 11 Feb 2020 15:31:46 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/post/haskell_red_black_tree/</guid>
+      <guid>https://blog.candyqwq.xyz/post/haskell_red_black_tree/</guid>
       <description>&lt;p&gt;Candy?在上学期的数算课上学了红黑树，但是他一直没写过。&lt;/p&gt;</description>
     </item>
     

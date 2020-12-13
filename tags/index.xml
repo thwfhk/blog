@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Candy?&#39;s Blog</title>
-    <link>https://thwfhk.github.io/blog/tags/</link>
+    <link>https://blog.candyqwq.xyz/tags/</link>
     <description>Recent content in Tags on Candy?&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2020 17:51:30 +0800</lastBuildDate><atom:link href="https://thwfhk.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2020 17:51:30 +0800</lastBuildDate><atom:link href="https://blog.candyqwq.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Category Theory</title>
-      <link>https://thwfhk.github.io/blog/tags/category-theory/</link>
+      <link>https://blog.candyqwq.xyz/tags/category-theory/</link>
       <pubDate>Tue, 29 Sep 2020 17:51:30 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/category-theory/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/category-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haskell</title>
-      <link>https://thwfhk.github.io/blog/tags/haskell/</link>
+      <link>https://blog.candyqwq.xyz/tags/haskell/</link>
       <pubDate>Tue, 25 Aug 2020 17:43:42 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/haskell/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/haskell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming Language Theory</title>
-      <link>https://thwfhk.github.io/blog/tags/programming-language-theory/</link>
+      <link>https://blog.candyqwq.xyz/tags/programming-language-theory/</link>
       <pubDate>Tue, 25 Aug 2020 17:43:42 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/programming-language-theory/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/programming-language-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>secret sharing</title>
-      <link>https://thwfhk.github.io/blog/tags/secret-sharing/</link>
+      <link>https://blog.candyqwq.xyz/tags/secret-sharing/</link>
       <pubDate>Sat, 16 May 2020 09:49:46 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/secret-sharing/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/secret-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>https://thwfhk.github.io/blog/tags/writing/</link>
+      <link>https://blog.candyqwq.xyz/tags/writing/</link>
       <pubDate>Sat, 16 May 2020 09:49:46 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/writing/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Set Theory</title>
-      <link>https://thwfhk.github.io/blog/tags/set-theory/</link>
+      <link>https://blog.candyqwq.xyz/tags/set-theory/</link>
       <pubDate>Thu, 14 May 2020 12:26:00 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/set-theory/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/set-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computation Theory</title>
-      <link>https://thwfhk.github.io/blog/tags/computation-theory/</link>
+      <link>https://blog.candyqwq.xyz/tags/computation-theory/</link>
       <pubDate>Tue, 31 Mar 2020 22:55:23 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/computation-theory/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/computation-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithm</title>
-      <link>https://thwfhk.github.io/blog/tags/algorithm/</link>
+      <link>https://blog.candyqwq.xyz/tags/algorithm/</link>
       <pubDate>Tue, 11 Feb 2020 15:31:46 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/algorithm/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hello</title>
-      <link>https://thwfhk.github.io/blog/tags/hello/</link>
+      <link>https://blog.candyqwq.xyz/tags/hello/</link>
       <pubDate>Sat, 24 Aug 2019 19:07:26 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/blog/tags/hello/</guid>
+      <guid>https://blog.candyqwq.xyz/tags/hello/</guid>
       <description></description>
     </item>
     
