@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Algorithm on Candy?</title>
-    <link>https://thwfhk.github.io/tags/algorithm/</link>
-    <description>Recent content in Algorithm on Candy?</description>
+    <title>Algorithm on Candy?&#39;s Blog</title>
+    <link>https://thwfhk.github.io/blog/tags/algorithm/</link>
+    <description>Recent content in Algorithm on Candy?&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2020 15:31:46 +0800</lastBuildDate><atom:link href="https://thwfhk.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2020 15:31:46 +0800</lastBuildDate><atom:link href="https://thwfhk.github.io/blog/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何用Haskell写一棵红黑树</title>
-      <link>https://thwfhk.github.io/post/haskell_red_black_tree/</link>
+      <link>https://thwfhk.github.io/blog/post/haskell_red_black_tree/</link>
       <pubDate>Tue, 11 Feb 2020 15:31:46 +0800</pubDate>
       
-      <guid>https://thwfhk.github.io/post/haskell_red_black_tree/</guid>
+      <guid>https://thwfhk.github.io/blog/post/haskell_red_black_tree/</guid>
       <description>&lt;p&gt;Candy?在上学期的数算课上学了红黑树，但是他一直没写过。&lt;/p&gt;</description>
     </item>
     
