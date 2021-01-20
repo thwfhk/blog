@@ -6,7 +6,18 @@
     <description>Recent content on Candy?&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2020 17:51:30 +0800</lastBuildDate><atom:link href="https://blog.candyqwq.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 20:01:21 +0800</lastBuildDate><atom:link href="https://blog.candyqwq.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对2020年的小回顾</title>
+      <link>https://blog.candyqwq.xyz/post/summary2020/</link>
+      <pubDate>Wed, 20 Jan 2021 20:01:21 +0800</pubDate>
+      
+      <guid>https://blog.candyqwq.xyz/post/summary2020/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;我觉得我2020年过得还不错&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>万有性质和米田引理</title>
       <link>https://blog.candyqwq.xyz/post/yoneda_lemma/</link>
@@ -25,7 +36,7 @@
       
       <guid>https://blog.candyqwq.xyz/post/higher_order_xxx/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;某种意义上，高阶意味着一等公民（&lt;/p&gt;
+&lt;p&gt;某种意义上，高阶意味着一等公民&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -88,15 +99,6 @@
       <guid>https://blog.candyqwq.xyz/post/february/</guid>
       <description>&lt;p&gt;故事是这样开始的：&lt;/p&gt;
 &lt;p&gt;今天下午ICS课的时候昕神跟我说：“国庆节不会要放两个lab吧，国庆放几天啊”。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://blog.candyqwq.xyz/post/first/</link>
-      <pubDate>Sat, 24 Aug 2019 19:07:26 +0800</pubDate>
-      
-      <guid>https://blog.candyqwq.xyz/post/first/</guid>
-      <description>My first blog This is my new home! the second title 我爱中文！ \[ \sum_{k=1}^{\infty} \frac{1}{k} \] import CandyQwQ CandyQwQ.sayhi() 走向隐晦和未知，要通过更为隐晦和未知的事物。</description>
     </item>
     
     <item>

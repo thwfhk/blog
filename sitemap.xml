@@ -3,27 +3,55 @@
   
   <url>
     <loc>https://blog.candyqwq.xyz/</loc>
-    <lastmod>2020-09-29T17:51:30+08:00</lastmod>
+    <lastmod>2021-01-20T20:01:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://blog.candyqwq.xyz/tags/category-theory/</loc>
-    <lastmod>2020-09-29T17:51:30+08:00</lastmod>
+    <loc>https://blog.candyqwq.xyz/categories/</loc>
+    <lastmod>2021-01-20T20:01:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.candyqwq.xyz/post/</loc>
-    <lastmod>2020-09-29T17:51:30+08:00</lastmod>
+    <lastmod>2021-01-20T20:01:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.candyqwq.xyz/categories/summary/</loc>
+    <lastmod>2021-01-20T20:01:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.candyqwq.xyz/tags/</loc>
+    <lastmod>2021-01-20T20:01:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.candyqwq.xyz/tags/writing/</loc>
+    <lastmod>2021-01-20T20:01:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.candyqwq.xyz/post/summary2020/</loc>
+    <lastmod>2021-01-20T20:01:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.candyqwq.xyz/tags/category-theory/</loc>
     <lastmod>2020-09-29T17:51:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -65,21 +93,7 @@
   </url>
   
   <url>
-    <loc>https://blog.candyqwq.xyz/categories/</loc>
-    <lastmod>2020-05-16T09:49:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.candyqwq.xyz/tags/secret-sharing/</loc>
-    <lastmod>2020-05-16T09:49:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.candyqwq.xyz/tags/writing/</loc>
     <lastmod>2020-05-16T09:49:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -151,20 +165,6 @@
   <url>
     <loc>https://blog.candyqwq.xyz/post/february/</loc>
     <lastmod>2019-09-23T23:53:20+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.candyqwq.xyz/post/first/</loc>
-    <lastmod>2019-08-24T19:07:26+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.candyqwq.xyz/tags/hello/</loc>
-    <lastmod>2019-08-24T19:07:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
