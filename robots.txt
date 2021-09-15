@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blog.candyqwq.xyz/sitemap.xml
+Sitemap: https://thwfhk.github.io/blog/sitemap.xml
